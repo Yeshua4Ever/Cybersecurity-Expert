@@ -1,7 +1,5 @@
-# Cybersecurity-Expert
+# Cybersecurity-Analyts
 Cybersecurity Analyst Portfolio | Python | Linux | SQL | Threat Modeling | Incident Response
-
-##  Emmanuel Udoh - Cybersecurity Analyst
 
 **Welcome to my Cybersecurity portfolio!**
 
